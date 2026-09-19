@@ -1,4 +1,4 @@
 # NewRepo
 learning
 <br>
-author :- addition
+author :- addition of new things
